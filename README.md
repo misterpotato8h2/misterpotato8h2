@@ -2,7 +2,7 @@
 
 - Eu sou o Misterpotato 
 
-- Estou estudando no alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 
 - Estou me desenvolvendo na linguagem java
 
